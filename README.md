@@ -1,0 +1,2 @@
+# OCRmessengerVoiceSynthesisTool
+Project for minor-2. In this we are developing a messenger similar to facebook &amp; whatsapp with similar features BUT with integration of Optical Character recognition Tool &amp; Voice synthesis, providind a secure connection amongst the groups &amp; two connected users, mostly useful for students in group studying as they can send ext notes &amp; voice notes in pdf formats to other users.
